@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "890544197522",
+    "project_id": "buildmart-platform",
+    "storage_bucket": "buildmart-platform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890544197522:android:17781b3f2e4b02c72b3b4b",
+        "android_client_info": {
+          "package_name": "com.buildmart.buildmart_buyer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5K2ednzy14U0QMn2PTvN4qw-_ve8llS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890544197522:android:e655a68804382b0f2b3b4b",
+        "android_client_info": {
+          "package_name": "com.buildmart.buyer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5K2ednzy14U0QMn2PTvN4qw-_ve8llS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890544197522:android:f4faaaadd5fe13442b3b4b",
+        "android_client_info": {
+          "package_name": "com.buildmart.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5K2ednzy14U0QMn2PTvN4qw-_ve8llS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
